@@ -1,5 +1,7 @@
 # Game Economy Analyst
 
+![Game Economy Analyst Dashboard](images/game-economy-analyst-dashboard.png)
+
 Game Economy Analyst is an AI research agent designed to analyze digital games as environments of economic behavior.
 
 The agent helps users explore how digital games involve behavioral economics, virtual currencies, social comparison, status, microtransactions, player incentives, and ethical questions around AI and digital platforms.
@@ -22,7 +24,7 @@ This project was created to make game analysis accessible to a diverse audience,
 
 You can try the agent here:
 
-[Insert Poe agent link here]
+[Try Game Economy Analyst on Poe](https://poe.com/GameEconomyAnalyst)
 
 ## Example Use Cases
 
@@ -34,3 +36,12 @@ You can try the agent here:
 ## Ethics
 
 The agent is designed to avoid manipulation, avoid unsupported claims, and clearly separate known features, interpretation, and ethical concerns.
+
+It focuses on responsible AI principles such as privacy, transparency, fairness, informed consent, accountability, and youth-aware analysis.
+
+## Project Structure
+
+```text
+/images
+/docs
+/prompts
