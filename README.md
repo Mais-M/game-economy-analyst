@@ -1,5 +1,5 @@
 # Game Economy Analyst
-![Game Economy Analyst Dashboard](game-economy-analyst-dashboard.png)
+![Game Economy Analyst Dashboard](game-economy-analyst-dashboard.png.png)
 Game Economy Analyst is an AI research agent designed to analyze digital games as environments of economic behavior.
 
 The agent helps users explore how digital games involve behavioral economics, virtual currencies, social comparison, status, microtransactions, player incentives, and ethical questions around AI and digital platforms.
