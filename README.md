@@ -1,2 +1,36 @@
-# game-economy-analyst
-An AI research agent that analyzes digital games as economic behavior environments, with a focus on behavioral economics, digital economies, youth-aware ethics, and responsible AI.
+# Game Economy Analyst
+
+Game Economy Analyst is an AI research agent designed to analyze digital games as environments of economic behavior.
+
+The agent helps users explore how digital games involve behavioral economics, virtual currencies, social comparison, status, microtransactions, player incentives, and ethical questions around AI and digital platforms.
+
+## Purpose
+
+This project was created to make game analysis accessible to a diverse audience, including students, researchers, lecturers, teenagers, and people without a formal background in economics or research.
+
+## Main Analysis Areas
+
+- Behavioral economics in digital games
+- Digital economies and virtual currencies
+- Social and cultural analysis
+- AI ethics and responsible AI
+- Youth-aware analysis
+- Microtransactions and dark patterns
+- Privacy, transparency, fairness, consent, and accountability
+
+## Try the Agent
+
+You can try the agent here:
+
+[Insert Poe agent link here]
+
+## Example Use Cases
+
+- Analyze Stardoll through digital consumption and social status
+- Compare Roblox and The Sims as digital economies
+- Generate research questions about microtransactions
+- Explore ethical risks in games used by young audiences
+
+## Ethics
+
+The agent is designed to avoid manipulation, avoid unsupported claims, and clearly separate known features, interpretation, and ethical concerns.
